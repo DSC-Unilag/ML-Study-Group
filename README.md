@@ -4,6 +4,7 @@ Machine Learning Study Group
 ## Week 1
 
 Python for Data Science and statistics
+You can find the  introductory python tutorials here [https://cognitiveclass.ai/courses/python-for-data-science] and the statistics tutorials here [https://cognitiveclass.ai/courses/statistics-101]
 
 End of Week Project:
 
@@ -14,6 +15,7 @@ End of Week Project:
 ## Week 2
 
 Data Analysis with Python using Pandas and Numpy
+You can find the data analysis tutorials here [https://cognitiveclass.ai/courses/data-analysis-python]
 
 End of Week Project:
 
@@ -22,6 +24,7 @@ A dataset from kaggle will be used and we’ll be doing some analysis on the dat
 ## Week 3
 
 Data Visualization with Python using  Matplotlib and Seaborne
+You can find the data visualisation tutorials here [https://cognitiveclass.ai/courses/data-visualization-with-python]
 
 End of Week Project:
 
