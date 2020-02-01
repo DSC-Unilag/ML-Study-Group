@@ -3,7 +3,6 @@ Machine Learning Study Group
 
 ## Week 1
 
-Python for Data Science and statistics
 [Python for data science](https://cognitiveclass.ai/courses/python-for-data-science)<br/>
 [Statistics tutorial](https://cognitiveclass.ai/courses/statistics-101)<br/>
 
