@@ -6,7 +6,7 @@ Sodiq Agunbiade - [sodiq-123](https://github.com/Sodiq-123)
 
 ## Participants
 
-
+Onakoya Ayodeji - [dej-tech](https://github.com/dej-tech)
 Abdulwaheed Mukthar Olakunle - [mawaxyl](https://github.com/mawaxyl)
 Olayiwola Abdullah - [Kwagmire](http://github.com/Kwagmire)
 Ogunbanjo Temiloluwa - [Tehmi2000](https://github.com/tehmi2000)
