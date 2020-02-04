@@ -6,6 +6,9 @@ Sodiq Agunbiade - [sodiq-123](https://github.com/Sodiq-123)
 
 ## Participants
 
+Ogundeyi Boluwatife -[boluwatifeh](http://github.com/boluwatifeh)
+Oreoluwa padonu - [knight](http://github.com/ore291)
+lasisi salmah - [salmah](http://github..com/salmah52)
 Onakoya Ayodeji - [dej-tech](https://github.com/dej-tech)
 Abdulwaheed Mukthar Olakunle - [mawaxyl](https://github.com/mawaxyl)
 Olayiwola Abdullah - [Kwagmire](http://github.com/Kwagmire)
