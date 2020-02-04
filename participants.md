@@ -13,6 +13,8 @@ Ogunbanjo Temiloluwa - [Tehmi2000](https://github.com/tehmi2000)
 Emmanuel Dada - [Dadaemmanuel](http://GitHub.com/Dadaemmanuel)
 Ogundeyi Boluwatife -[boluwatifeh](http://github.com/boluwatifeh)
 Oreoluwa padonu - [knight](http://github.com/ore291)
+Odeshina Abdulquadri - [AbdulQuadri2399](http://github.com/AbdulQuadri2399)
 Nnebue Desmond Chukwuebuka -[sirdesmond09](https://github.com/sirdesmond09)
 Aboaba Akorede - [akorede12](http://github.com/akorede12)
 Oreoluwa padonu - [knight](http://github.com/ore291)
+
