@@ -8,3 +8,4 @@ Sodiq Agunbiade - [sodiq-123](https://github.com/Sodiq-123)
 
 Ogundeyi Boluwatife -[boluwatifeh](http://github.com/boluwatifeh)
 Oreoluwa padonu - [knight](http://github.com/ore291)
+Odeshina Abdulquadri - [AbdulQuadri2399](http://github.com/AbdulQuadri2399)
