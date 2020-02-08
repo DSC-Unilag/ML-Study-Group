@@ -29,3 +29,4 @@ Olukolatimi David - [kolatimiDave](http://github.com/KolatimiDave)<br/>
 Fijabi Yosola - [Y0sola] (http://github.com/Y0sola) <br/>
 Jamiu Muritala - [knight10](https://github.com/knight10)
 Fijabi Yosola - [Y0sola](http://github.com/Y0sola) <br/>
+Solaja Ayomipo - [Ayomipo18](https://github.com/Ayomipo18)<br/>
