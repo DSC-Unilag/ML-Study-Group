@@ -26,3 +26,4 @@ Ogunola Adedayo - [Adedayo30](https://github.com/Adedayo30)<br/>
 Betiku Oluwatobi - [BetikuOluwatobi](https://github.com/BetikuOluwatobi)<br/>
 Olumide Nwosu - [olumidayy](https://github.com/olumidayy)
 Olukolatimi David - [kolatimiDave](http://github.com/KolatimiDave)<br/>
+Goodluck Olawale - [olawalecodes](http://github.com/olawalecodes)<br/>
