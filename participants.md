@@ -21,4 +21,12 @@ Odeshina Abdulquadri - [AbdulQuadri2399](http://github.com/AbdulQuadri2399)<br/>
 Nnebue Desmond Chukwuebuka -[sirdesmond09](https://github.com/sirdesmond09)<br/>
 Aboaba Akorede - [akorede12](http://github.com/akorede12)<br/>
 Oreoluwa padonu - [knight](http://github.com/ore291)<br/>
+
 Hafsah Anibaba-[Hafsah15](http://github.com/hafsah15)<br/>
+
+
+Oladipupo Matthew - [abbeysuper](https://github.com/abbeysuper)<br/>
+
+Abdulrasheed Bakare - [Abdul-Rasheed](https://github.com/Abdul-Rassheed)<br/>
+
+
