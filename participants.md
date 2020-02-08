@@ -23,3 +23,6 @@ Hafsah Anibaba-[Hafsah15](http://github.com/hafsah15)<br/>
 Oladipupo Matthew - [abbeysuper](https://github.com/abbeysuper)<br/>
 Abdulrasheed Bakare - [Abdul-Rasheed](https://github.com/Abdul-Rassheed)<br/>
 Ogunola Adedayo - [Adedayo30](https://github.com/Adedayo30)<br/>
+Betiku Oluwatobi - [BetikuOluwatobi](https://github.com/BetikuOluwatobi)<br/>
+Olumide Nwosu - [olumidayy](https://github.com/olumidayy)
+
