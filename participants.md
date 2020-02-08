@@ -22,3 +22,4 @@ Fortune Adekogbe - [Fortune-Adekogbe](http://github.com/Fortune-Adekogbe)<br/>
 Hafsah Anibaba-[Hafsah15](http://github.com/hafsah15)<br/>
 Oladipupo Matthew - [abbeysuper](https://github.com/abbeysuper)<br/>
 Abdulrasheed Bakare - [Abdul-Rasheed](https://github.com/Abdul-Rassheed)<br/>
+Olumide Nwosu - [olumidayy](https://github.com/olumidayy)
