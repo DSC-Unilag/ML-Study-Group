@@ -14,3 +14,5 @@ You have three datasets in the ufcdata.zip file you're to work on just two of th
 
 
 <bold>You are to put your notebooks and datasets in a folder saved as firstname_lastname_week2 name of notebook should be datasetname_lastname_week2.ipynb</bold>
+
+#### PS: data cleaning is the process of identifying and removing (or correcting) inaccurate records from a dataset, table, or database and refers to recognising unfinished, unreliable, inaccurate or non-relevant parts of the data and then restoring, remodelling, or removing the dirty or crude data. A clean dataset is one that has gone through this process. Making your dataset cleaner is an added advantage.
