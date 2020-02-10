@@ -24,5 +24,14 @@ Oladipupo Matthew - [abbeysuper](https://github.com/abbeysuper)<br/>
 Abdulrasheed Bakare - [Abdul-Rasheed](https://github.com/Abdul-Rassheed)<br/>
 Ogunola Adedayo - [Adedayo30](https://github.com/Adedayo30)<br/>
 Betiku Oluwatobi - [BetikuOluwatobi](https://github.com/BetikuOluwatobi)<br/>
-Olumide Nwosu - [olumidayy](https://github.com/olumidayy)
-
+Olumide Nwosu - [olumidayy](https://github.com/olumidayy)<br/>
+Olukolatimi David - [kolatimiDave](http://github.com/KolatimiDave)<br/>
+Fijabi Yosola - [Y0sola](http://github.com/Y0sola) <br/>
+Jamiu Muritala - [knight10](https://github.com/knight10)<br/>
+Fijabi Yosola - [Y0sola](http://github.com/Y0sola) <br/>
+Solaja Ayomipo - [Ayomipo18](https://github.com/Ayomipo18)<br/>
+Jamiu Muritala - [knight10](https://github.com/knight10)<br/>
+Quadri Abolarinwa - [BoffinBee](http://github.com/BoffinBee)<br/>
+Ganiu Ibrahim - [Oluwatobi17](http://github.com/Oluwatobi17)<br/>
+Owoeye Philip - [nerdyphil](https://github.com/nerdyphil)<br/>
+Oluwajoba Fashogbon - [JobaFash](github.com/jobafash)
