@@ -34,6 +34,6 @@ We’ll be working on a dataset as a project which will cover all we’ve done s
 
 Project detail:  A more complex dataset will be used where we will be analyzing and visualizing the data then try to make sense out of the raw data given.
 ## Additional Materials:
-#### 1. [github tutorials for beginners](https://www.google.com/amp/product.hubspot.com/blog/git-and-github-tutorial-for-beginners%3fhs_amp=true). <br/>
+#### 1. [github tutorials for beginners](https://www.google.com/amp/product.hubspot.com/blog/git-and-github-tutorial-for-beginners%3fhs_amp=true).<br/>
 #### 2. [Why is jupyter so useful](https://www.google.com/search?q=why+is+jupyter+notebook+useful&oq=why+is+jupyt&aqs=chrome.2.69i57j0l3.9356j0j7&client=ms-android-transsion&sourceid=chrome-mobile&ie=UTF-8).<br/>.
 #### 3. [Data Science tools](https://www.google.com/amp/s/data-flair.training/blogs/data-science-tools/amp/).
