@@ -10,7 +10,7 @@
 ### 5. Estimate the summary statistics of the data and check if there's outlier.
 ### 5. Drop or fill missing values with the suitable value, you're to decide on which one to do based on your own intuition.
 ### 6. Check for correlation of the columns.
-### 7. Save the new DataFrame in a new csv file called processeddata_week2.ipynb
+### 7. Save the new DataFrame in a new csv file called processed_data_week2.ipynb
 
 
 ##### You are to put your notebooks and datasets in a folder saved as firstname_lastname_week2 name of notebook should be datasetname_lastname_week2.ipynb
