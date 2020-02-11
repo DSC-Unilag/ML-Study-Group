@@ -34,4 +34,5 @@ Jamiu Muritala - [knight10](https://github.com/knight10)<br/>
 Quadri Abolarinwa - [BoffinBee](http://github.com/BoffinBee)<br/>
 Ganiu Ibrahim - [Oluwatobi17](http://github.com/Oluwatobi17)<br/>
 Owoeye Philip - [nerdyphil](https://github.com/nerdyphil)<br/>
-Oluwajoba Fashogbon - [JobaFash](github.com/jobafash)
+Oluwajoba Fashogbon - [JobaFash](github.com/jobafash)<br/>
+Zubair Idris Aweda - [Zubs] (github.com/Zubs)<br/>
