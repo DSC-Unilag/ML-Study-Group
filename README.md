@@ -22,7 +22,7 @@ A dataset from kaggle will be used and we’ll be doing some analysis on the dat
 
 ## Week 3
 
-[Data Visualisation with Python using Seaborne and Matplotlib](https://cognitiveclass.ai/courses/data-visualization-with-python)<br/>
+[Data Visualization with Python using Seaborne and Matplotlib](https://cognitiveclass.ai/courses/data-visualization-with-python)<br/>
 
 End of Week Project:
 
