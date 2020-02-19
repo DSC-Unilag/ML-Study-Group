@@ -18,6 +18,8 @@ Ariyo Aboluwarin - [Ariyo23](http://github.com/Ariyo23)<br/>
 Odeshina Abdulquadri - [AbdulQuadri2399](http://github.com/AbdulQuadri2399)<br/>
 Nnebue Desmond Chukwuebuka -[sirdesmond09](https://github.com/sirdesmond09)<br/>
 Aboaba Akorede - [akorede12](http://github.com/akorede12)<br/>
+Oreoluwa padonu - [knight](http://github.com/ore291)<br/>
+Ganiu Ibrahim - [Oluwatobi17](http://github.com/Oluwatobi17)<br/>
 Fortune Adekogbe - [Fortune-Adekogbe](http://github.com/Fortune-Adekogbe)<br/>
 Hafsah Anibaba-[Hafsah15](http://github.com/hafsah15)<br/>
 Oladipupo Matthew - [abbeysuper](https://github.com/abbeysuper)<br/>
