@@ -37,20 +37,20 @@ Project detail:  We'll be doing a competition on [driven data site](https://www.
 ## Week 5 - 8:
   ### We'll be building models all through.
   ### We'll learn supervised and unsupervised machine learning.
-   [Machine learning article](https://www.geeksforgeeks.org/machine-learning/) [wikipedia definition](https://en.wikipedia.org/wiki/Machine_learning)
+   [Machine learning article](https://www.geeksforgeeks.org/machine-learning/), [wikipedia definition](https://en.wikipedia.org/wiki/Machine_learning),
    [Machine Learning with python course](https://cognitiveclass.ai/courses/machine-learning-with-python)
    
   
  ## Week 5:
   ### Linear Regression in Machine Learning.
-      [Linear Regression for beginners](https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a)
+   [Linear Regression for beginners](https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a)
 ## Week 6
   ### Classification in Machine Learning.
-    [](https://www.simplilearn.com/classification-machine-learning-tutorial)
+   [Classification in ML](https://www.simplilearn.com/classification-machine-learning-tutorial)
     
 ## Week 7:
   ### Introduction to unsupervised learning
-      [Intro to unsupervised Learning](https://towardsdatascience.com/an-easy-introduction-to-unsupervised-learning-with-4-basic-techniques-da7fbf0c3adf)
+   [Intro to unsupervised Learning](https://towardsdatascience.com/an-easy-introduction-to-unsupervised-learning-with-4-basic-techniques-da7fbf0c3adf)
       
 ## Week 8:
    ### [Unsupervised Learning](https://www.guru99.com/unsupervised-machine-learning.html)
