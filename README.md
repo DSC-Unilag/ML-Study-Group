@@ -32,7 +32,32 @@ A dataset from kaggle will be used and we’ll be doing some visualization on th
 
 We’ll be working on a dataset as a project which will cover all we’ve done so far  
 
-Project detail:  A more complex dataset will be used where we will be analyzing and visualizing the data then try to make sense out of the raw data given.
+Project detail:  We'll be doing a competition on [driven data site](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/25/). <br/>
+
+## Week 5 - 8:
+  ### We'll be building models all through.
+  ### We'll learn supervised and unsupervised machine learning.
+   [Machine learning article](https://www.geeksforgeeks.org/machine-learning/), [wikipedia definition](https://en.wikipedia.org/wiki/Machine_learning),
+   [Machine Learning with python course](https://cognitiveclass.ai/courses/machine-learning-with-python)
+   
+  
+ ## Week 5:
+  ### Linear Regression in Machine Learning.
+   [Linear Regression for beginners](https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a)
+## Week 6
+  ### Classification in Machine Learning.
+   [Classification in ML](https://www.simplilearn.com/classification-machine-learning-tutorial)
+    
+## Week 7:
+  ### Introduction to unsupervised learning
+   [Intro to unsupervised Learning](https://towardsdatascience.com/an-easy-introduction-to-unsupervised-learning-with-4-basic-techniques-da7fbf0c3adf)
+      
+## Week 8:
+   ### [Unsupervised Learning](https://www.guru99.com/unsupervised-machine-learning.html)
+   ### [Model Deployment](https://towardsdatascience.com/there-are-two-very-different-ways-to-deploy-ml-models-heres-both-ce2e97c7b9b1)
+   ### [Wrapping up with ML](https://www.youtube.com/watch?v=cM1afJmUT7s)
+   ### Joining a ML community: [AI Saturdays](https://www.meetup.com/AI6-Lagos/), [LEarning and teaching ML](https://medium.com/@olayinkapeter/learning-and-teaching-ml-to-the-immediate-nigerian-developer-community-the-journey-so-far-82b8e997ad67)
+   ### Going for ML competitions
 ## Additional Materials:
 #### 1. [github tutorials for beginners](https://www.google.com/amp/product.hubspot.com/blog/git-and-github-tutorial-for-beginners%3fhs_amp=true).<br/>
 #### 2. [Why is jupyter so useful](https://www.google.com/search?q=why+is+jupyter+notebook+useful&oq=why+is+jupyt&aqs=chrome.2.69i57j0l3.9356j0j7&client=ms-android-transsion&sourceid=chrome-mobile&ie=UTF-8).<br/>
