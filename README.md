@@ -56,7 +56,7 @@ Project detail:  We'll be doing a competition on [driven data site](https://www.
    ### [Unsupervised Learning](https://www.guru99.com/unsupervised-machine-learning.html)
    ### [Model Deployment](https://towardsdatascience.com/there-are-two-very-different-ways-to-deploy-ml-models-heres-both-ce2e97c7b9b1)
    ### [Wrapping up with ML](https://www.youtube.com/watch?v=cM1afJmUT7s)
-   ### Joining a ML community: [AI Saturdays](https://www.meetup.com/AI6-Lagos/), [LEarning and teaching ML](https://medium.com/@olayinkapeter/learning-and-teaching-ml-to-the-immediate-nigerian-developer-community-the-journey-so-far-82b8e997ad67)
+   ### Joining a ML community: [AI Saturdays](https://www.meetup.com/AI6-Lagos/), [Learning and teaching ML](https://medium.com/@olayinkapeter/learning-and-teaching-ml-to-the-immediate-nigerian-developer-community-the-journey-so-far-82b8e997ad67)
    ### Going for ML competitions
 ## Additional Materials:
 #### 1. [github tutorials for beginners](https://www.google.com/amp/product.hubspot.com/blog/git-and-github-tutorial-for-beginners%3fhs_amp=true).<br/>
