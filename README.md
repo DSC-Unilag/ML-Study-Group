@@ -38,8 +38,8 @@ Project detail:  We'll be doing a competition on [driven data site](https://www.
   ### We'll be building models all through.
   ### We'll learn supervised and unsupervised machine learning.
    [Machine learning article](https://www.geeksforgeeks.org/machine-learning/), [wikipedia definition](https://en.wikipedia.org/wiki/Machine_learning),
-   [Machine Learning best practices](https://hub.packtpub.com/8-machine-learning-best-practices/)
-   [Pipelines and feature unions](https://www.kaggle.com/metadist/work-like-a-pro-with-pipelines-and-feature-unions)
+   [Machine Learning best practices](https://hub.packtpub.com/8-machine-learning-best-practices/)<br/>
+   [Pipelines and feature unions](https://www.kaggle.com/metadist/work-like-a-pro-with-pipelines-and-feature-unions)<br/>
    [Machine Learning with python course](https://cognitiveclass.ai/courses/machine-learning-with-python)
    
   
