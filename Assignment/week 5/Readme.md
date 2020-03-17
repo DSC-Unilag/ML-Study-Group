@@ -1,6 +1,12 @@
 ### You're to upload your week 5 project in this folder. 
 
-We'll be using the load_Bboston dataset
-from sklearn.datasets import load_boston
-X, y = load_boston(return_X_y=True)
-print(X.shape) # Prints (506, 13)
+We'll be using the load_boston dataset and an additional dataset on kaggle<br/>
+1.  For the sklearn dataset:<br/>
+    from sklearn.datasets import load_boston<br/>
+    data = load_boston<br/>
+    data.DESCR # Returns te description of the dataset<br/>
+    data.data #Returns the features values of the dataset<br/>
+    data.target # Returns the target values of the dataset<br/>
+    data.feature_names #Returns the feature_names of the data<br/>
+   
+2. This isthe link of the [kaggle dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
