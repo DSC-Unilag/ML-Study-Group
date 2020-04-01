@@ -13,16 +13,17 @@ Using data from Taarifa and the Tanzanian Ministry of Water, can you predict whi
   2. Join the competition [here](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) <br/>
   3. Access the data [here](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/) <br/>
   4. Download the datasets and you're set to write your code and build your classification model. <br/>
-  5. Make your submission to your file. <br/>
+  5. Make your submission to the site and see your rank, you can submit mutiple times and your best rank is what you'd be on the leaderboard. <br/>
   6. After doing this. Upload a folder with format firstname_week6 putting your notebook and file inside it. <br/>
   7. Create a README.md file which includes the following: <br/>
   
-                    a. The model used in making prediction <br/>
+                    a. The model used in making prediction when you think you're ready to submit. 
                     b. The number of features used and list them.
-                    c. Your rank on the driven-data site in the format: <br/>
+                    c. Your rank on the driven-data site in the format: 
                     
-                                       RANK : 2000<br/>
-                                       Total on leaderboard: 11000<br/>
+                                       Username: Babatunde
+                                       RANK : 2000
+                                       Total on leaderboard: 11000
                                        
   8. Deadline for submission is  Saturday 4 April, 2020 11: 59 pm. Please submit before the deadline.<br/>
  
