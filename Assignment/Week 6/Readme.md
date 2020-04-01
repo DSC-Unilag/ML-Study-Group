@@ -23,4 +23,8 @@ Using data from Taarifa and the Tanzanian Ministry of Water, can you predict whi
                     
                                        RANK : 2000<br/>
                                        Total on leaderboard: 11000<br/>
+                                       
+  8. Deadline for submission is  Saturday 4 April, 2020 11: 59 pm. Please submit before the deadline.<br/>
+ 
+ ### Happy Coding 
         
