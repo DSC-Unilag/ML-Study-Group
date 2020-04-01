@@ -8,7 +8,7 @@ Using data from Taarifa and the Tanzanian Ministry of Water, can you predict whi
 
 
 ## Steps:
-        1. Create an account with [driven-data] (https://s3.amazonaws.com/drivendata/data/7/public/702ddfc5-68cd-4d1d-a0de-f5f566f76d91.csv) <br/>
+   1. Create an account with [driven-data] (https://s3.amazonaws.com/drivendata/data/7/public/702ddfc5-68cd-4d1d-a0de-f5f566f76d91.csv)
         2. Join the competition [here] (https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) <br/>
         3. Access the data [here] (https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/) <br/>
         4. Download the datasets and you're set to write your code and build your classification model. <br/>
