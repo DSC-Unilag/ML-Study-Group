@@ -8,9 +8,9 @@ Machine Learning Study Group
 
 End of Week Project:
 
-1) Write different functions that will calculate the mean, median, mode, standard deviation, percentiles of a list containing many different numbers
+    Write different functions that will calculate the mean, median, mode, standard deviation, percentiles of a list containing many different numbers
 
-2)Use the random module to create a rock paper scissors game.
+    Use the random module to create a rock paper scissors game.
 
 ## Week 2
 
@@ -61,8 +61,8 @@ Project detail:  We'll be doing a competition on [driven data site](https://www.
    ### [Unsupervised Learning](https://www.guru99.com/unsupervised-machine-learning.html)
    ### [Model Deployment](https://towardsdatascience.com/there-are-two-very-different-ways-to-deploy-ml-models-heres-both-ce2e97c7b9b1)
    ### [Wrapping up with ML](https://www.youtube.com/watch?v=cM1afJmUT7s)
-   ### Joining a ML community: [AI Saturdays](https://www.meetup.com/AI6-Lagos/) [Data Science Nigeria](https://www.datasciencenigeria.org/), [Learning and teaching ML](https://medium.com/@olayinkapeter/learning-and-teaching-ml-to-the-immediate-nigerian-developer-community-the-journey-so-far-82b8e997ad67)
-   ### Going for ML competitions
+   ### Joining a ML community: [AI Saturdays](https://www.meetup.com/AI6-Lagos/), [Data Science Nigeria](https://www.datasciencenigeria.org/), [Learning and teaching ML](https://medium.com/@olayinkapeter/learning-and-teaching-ml-to-the-immediate-nigerian-developer-community-the-journey-so-far-82b8e997ad67)
+   ### Going for ML competitions on [zindi](https://zindi.africa), [kaggle](https://kaggle.com)
 ## Additional Materials:
 #### 1. [github tutorials for beginners](https://www.google.com/amp/product.hubspot.com/blog/git-and-github-tutorial-for-beginners%3fhs_amp=true).<br/>
 #### 2. [Why is jupyter so useful](https://www.google.com/search?q=why+is+jupyter+notebook+useful&oq=why+is+jupyt&aqs=chrome.2.69i57j0l3.9356j0j7&client=ms-android-transsion&sourceid=chrome-mobile&ie=UTF-8).<br/>
