@@ -3,7 +3,7 @@
 We'll be using the load_boston dataset and an additional dataset on kaggle<br/>
 1.  For the sklearn dataset:<br/>
     from sklearn.datasets import load_boston<br/>
-    data = load_boston<br/>
+    data = load_boston()<br/>
     data.DESCR # Returns te description of the dataset<br/>
     data.data # Returns the features values of the dataset<br/>
     data.target # Returns the target values of the dataset<br/>
