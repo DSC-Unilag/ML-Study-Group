@@ -1,4 +1,4 @@
-a. XGBoost Classifier
+       a. XGBoost Classifier
        b. 93 features. Feature list: 
        ['gps_height', 'longitude', 'latitude', 'district_code', 'population',
        'wpt_age', 'basin_Internal', 'basin_Lake Nyasa', 'basin_Lake Rukwa',
@@ -35,7 +35,7 @@ a. XGBoost Classifier
        'waterpoint_type_communal standpipe multiple', 'waterpoint_type_dam',
        'waterpoint_type_hand pump', 'waterpoint_type_improved spring',
        'waterpoint_type_other']
-       c. My rank on the driven-data site:
+       c . My rank on the driven-data site:
                           Username: fortune_adekogbe
                           RANK : 2158
                           Total on leaderboard: 9035
