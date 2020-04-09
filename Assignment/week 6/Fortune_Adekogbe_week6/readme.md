@@ -1,7 +1,41 @@
-           a. Random forest Classifier
-           b. The number of features used and list them.
-           c. Your rank on the driven-data site in the format: 
-           
-                              Username: Enutrof
-                              RANK : 2734
-                              Total on leaderboard: 9029
+       a. XGBoost Classifier
+       b. 93 features. Feature list: 
+       ['gps_height', 'longitude', 'latitude', 'district_code', 'population',
+       'wpt_age', 'basin_Internal', 'basin_Lake Nyasa', 'basin_Lake Rukwa',
+       'basin_Lake Tanganyika', 'basin_Lake Victoria', 'basin_Pangani',
+       'basin_Rufiji', 'basin_Ruvuma / Southern Coast', 'basin_Wami / Ruvu',
+       'region_Arusha', 'region_Dar es Salaam', 'region_Dodoma',
+       'region_Iringa', 'region_Kagera', 'region_Kigoma', 'region_Kilimanjaro',
+       'region_Lindi', 'region_Manyara', 'region_Mara', 'region_Mbeya',
+       'region_Morogoro', 'region_Mtwara', 'region_Mwanza', 'region_Pwani',
+       'region_Rukwa', 'region_Ruvuma', 'region_Shinyanga', 'region_Singida',
+       'region_Tabora', 'region_Tanga', 'public_meeting_False',
+       'public_meeting_True', 'permit_False', 'permit_True',
+       'extraction_type_class_gravity', 'extraction_type_class_handpump',
+       'extraction_type_class_motorpump', 'extraction_type_class_other',
+       'extraction_type_class_rope pump', 'extraction_type_class_submersible',
+       'extraction_type_class_wind-powered', 'management_company',
+       'management_other', 'management_other - school',
+       'management_parastatal', 'management_private operator',
+       'management_trust', 'management_unknown', 'management_vwc',
+       'management_water authority', 'management_water board',
+       'management_wua', 'management_wug', 'payment_never pay',
+       'payment_other', 'payment_pay annually', 'payment_pay monthly',
+       'payment_pay per bucket', 'payment_pay when scheme fails',
+       'payment_unknown', 'water_quality_coloured', 'water_quality_fluoride',
+       'water_quality_fluoride abandoned', 'water_quality_milky',
+       'water_quality_salty', 'water_quality_salty abandoned',
+       'water_quality_soft', 'water_quality_unknown', 'quantity_dry',
+       'quantity_enough', 'quantity_insufficient', 'quantity_seasonal',
+       'quantity_unknown', 'source_type_borehole', 'source_type_dam',
+       'source_type_other', 'source_type_rainwater harvesting',
+       'source_type_river/lake', 'source_type_shallow well',
+       'source_type_spring', 'waterpoint_type_cattle trough',
+       'waterpoint_type_communal standpipe',
+       'waterpoint_type_communal standpipe multiple', 'waterpoint_type_dam',
+       'waterpoint_type_hand pump', 'waterpoint_type_improved spring',
+       'waterpoint_type_other']
+       c. My rank on the driven-data site:
+                          Username: fortune_adekogbe
+                          RANK : 2158
+                          Total on leaderboard: 9035
